@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23a3edfc.css",
+    "main.js": "/static/js/main.bd7950bc.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/blurry-gradient-haikei.svg": "/static/media/blurry-gradient-haikei.91dfd96e416fdd7ed644f5972d24030f.svg",
+    "index.html": "/index.html",
+    "main.23a3edfc.css.map": "/static/css/main.23a3edfc.css.map",
+    "main.bd7950bc.js.map": "/static/js/main.bd7950bc.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23a3edfc.css",
+    "static/js/main.bd7950bc.js"
+  ]
+}
