@@ -1,3 +1,5 @@
+Nota: Por seguridad, se tuvo que borrar todos los anteriores commits ya que dejan datos expuestos
+
 Esta herramienta está diseñada para calcular resultados y probabilidades relacionados con los torneos Major de Counter-Strike 2. Permite procesar datos de los torneos para ofrecer proyecciones o cálculos específicos sobre el desempeño de los equipos y el desarrollo de la competición.
 
 Las funciones principales están terminadas, faltaría un mejor diseño de interfaz sobretodo en móvil, la función mas interesante es la que calcula los emparejamientos mediante el sistema buchholz
